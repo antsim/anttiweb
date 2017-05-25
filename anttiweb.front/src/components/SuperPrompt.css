@@ -1,0 +1,4 @@
+.sc-prompt-cursor {
+    background:#CCC;
+    animation: blinker 1s linear infinite;
+}

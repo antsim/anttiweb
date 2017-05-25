@@ -1,0 +1,11 @@
+.sc-container {
+    background: #CCC;
+    width: 500px;
+    height: 500px;
+}
+
+
+@keyframes blinker {  
+  50% { opacity: 0; }
+}
+
